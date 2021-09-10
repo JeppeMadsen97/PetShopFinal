@@ -5,7 +5,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Infrastructure.FakeDB\Infrastructure.FakeDB.csproj" />
       <ProjectReference Include="..\PetShop.Domain\PetShop.Domain.csproj" />
     </ItemGroup>
 
